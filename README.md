@@ -19,14 +19,17 @@ Linguagens mais usadas:
 
 ##
 
-<div align="center">
+<br><div align="center">
+
 ## Contato:
-<br>  
+
+<br>
   <a href="https://www.youtube.com/@azinardi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://tiktok.com/@izaheditxz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/azinardi" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
  <a href="https://www.linkedin.com/in/izadora-lunardi-3a74aa29a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </a> 
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer" />
