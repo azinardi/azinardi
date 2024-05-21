@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=af69cd&height=120&section=header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=35&pause=1000&color=4682B4&center=true&vCenter=true&repeat=false&random=false&width=900&lines=Hello+World!+Bem-vindos+ao+meu+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=35&pause=1000&color=af69cd&center=true&vCenter=true&repeat=false&random=false&width=900&lines=Hello+World!+Bem-vindos+ao+meu+GitHub" alt="Typing SVG" /></a>
 
 <br>
 
@@ -14,8 +14,8 @@ Linguagens mais usadas:
 ##
 
 <br><div align="center">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=azinardi&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000" alt="Izah Lunardi gitHub stats" >
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azinardi&&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=azinardi&show_icons=true&count_private=true&hide_border=true&title_color=af69cd&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000" alt="Izah Lunardi gitHub stats" >
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azinardi&&show_icons=true&count_private=true&hide_border=true&title_color=af69cd&icon_color=4682B4&text_color=c9d1d9&bg_color=00000000"/>
 
 ##
 
@@ -32,4 +32,4 @@ Linguagens mais usadas:
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=af69cd&height=120&section=footer" />
