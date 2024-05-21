@@ -14,6 +14,7 @@ Linguagens mais usadas:
 
 <div align="center">
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azinardi&layout=compact&langs_count=7&theme=dracula"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azinardi&show_icons=true)
 </div>
 
 ##
@@ -27,4 +28,4 @@ Linguagens mais usadas:
  
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azinardi&show_icons=true)
+
