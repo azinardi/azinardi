@@ -4,7 +4,6 @@
 
 <br>
 
-<div align="center">
 Estudante do Ensino Médio,cursando Desenvolvimento de Sistemas. Nessa conta você pode encontrar projetos que fiz durante o curso e meu projeto atual,meu tcc.
 Nesses anos de curso aprendi muitas coisas e me apeguei ao desenvolvimento Front-End. Gosto de ler, ouvir música e aprender novas coisas. :)
 
