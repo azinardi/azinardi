@@ -21,7 +21,7 @@ Nesses anos de curso aprendi muitas coisas e me apeguei ao desenvolvimento Front
 
 <br><div align="center">
 
-## Contato:
+## Redes Sociais:
 
 <br>
   <a href="https://www.youtube.com/@azinardi" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
