@@ -15,7 +15,7 @@ Nesses anos de curso aprendi muitas coisas e me apeguei ao desenvolvimento Front
 
 <br><div align="center">
 <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=azinardi&show_icons=true&count_private=true&hide_border=true&theme=material-palenight" alt="Izah Lunardi gitHub stats" >
-<img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azinardi&&show_icons=true&count_private=true&hide_border=true&theme=material-palenight"/>
+<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azinardi&&show_icons=true&count_private=true&hide_border=true&theme=material-palenight"/>
 
 ##
 
